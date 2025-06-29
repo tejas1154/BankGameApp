@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\BankAccountGame\bin\Debug\net8.0\BankAccountGame.exe
+D:\Swabhav\Assignment\BankAccountGame\bin\Debug\net8.0\BankAccountGame.deps.json
+D:\Swabhav\Assignment\BankAccountGame\bin\Debug\net8.0\BankAccountGame.runtimeconfig.json
+D:\Swabhav\Assignment\BankAccountGame\bin\Debug\net8.0\BankAccountGame.dll
+D:\Swabhav\Assignment\BankAccountGame\bin\Debug\net8.0\BankAccountGame.pdb
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\BankAccountGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\BankAccountGame.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\BankAccountGame.AssemblyInfo.cs
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\BankAccountGame.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\BankAccountGame.dll
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\refint\BankAccountGame.dll
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\BankAccountGame.pdb
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\BankAccountGame.genruntimeconfig.cache
+D:\Swabhav\Assignment\BankAccountGame\obj\Debug\net8.0\ref\BankAccountGame.dll
